@@ -1,0 +1,11 @@
+.container {
+    max-width: 1200px;
+    margin: 0 auto;
+  }
+input, select {
+    padding: 8px 12px;
+    border: 1px solid #0a0202;
+    border-radius: 5px;
+  }
+
+  
